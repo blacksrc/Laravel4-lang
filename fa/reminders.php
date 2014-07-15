@@ -1,5 +1,10 @@
 <?php
-
+/*
+## PHP Laravel Framework Language file (2013)
+## Author:  Siamak Aghaeipour
+## Email:   siamak.aghaeipour@gmail.com
+## Website: http://blacksrc.com
+*/
 return array(
 
 	/*
