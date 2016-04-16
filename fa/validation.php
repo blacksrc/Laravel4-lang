@@ -1,7 +1,7 @@
 <?php
 /*
 ## PHP Laravel Framework Language file (2013)
-## Author:  Siamak Aghaeipour
+## Author:  Siamak Aghaeipour Motlagh
 ## Email:   siamak.aghaeipour@gmail.com
 ## Website: http://blacksrc.com
 */
