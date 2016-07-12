@@ -129,6 +129,7 @@ return array(
         "date" => "تاریخ",
         "time" => "زمان",
         "available" => "موجود",
+        "unavailable" => "ناموجود",
         "size" => "اندازه"
     ),
 );
